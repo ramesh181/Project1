@@ -1,0 +1,53 @@
+body{
+    background-image:url('Events.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    margin: 0;
+}
+.navbar{
+  font-family: Lato;
+  width: 100%;
+  background-color: #44BD49;
+  overflow: auto;
+}
+.navbar a{
+  color: white;
+  font-family: Lato;
+  text-decoration: none;
+  padding: 12px;
+  font-size: 20px;
+  float: left;
+  text-align: center;
+  width: 31%;
+}
+.navbar a:hover{
+  background-color: grey;
+}
+h1{
+  font-family: Lato;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+h2{
+  font-size: 30px;
+  font-family: Lato;
+  text-align: center;
+  color: white;
+}
+h3{
+  color: white;
+  font-family: Lato;
+  font-size: 20px;
+  text-align: center;
+}
+footer{
+  font-size: 20px;
+  font-family: Lato;
+  text-align: center;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  background-color: #44BD49;
+  width: 100%;
+}
